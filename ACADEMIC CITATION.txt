@@ -1,0 +1,6 @@
+If this software is used in academic research, publications,
+presentations, or other scholarly work, please cite the corresponding
+research article:
+
+Morteza Maleknia, Majid Soleimani-damaneh, A bundle-trust method via gradient sampling technique for nonsmooth optimization using exact and inexact gradients,
+IMA Journal of Numerical Analysis, 2025;, draf087, https://doi.org/10.1093/imanum/draf087
